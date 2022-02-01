@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
 
 body {
-    background-image: url(/gameimg/background-img.jpeg);
+    background-image: url(../gameimg/background-img.jpeg);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     background-attachment: fixed;
