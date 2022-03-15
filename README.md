@@ -2,7 +2,7 @@
 I have created the game of black jack also known as 21.
 Using your cards, win by reaching a number closest to 21 without surpassing it. If you surpass 21 you will BUST and automatically lose the round. You play only against the dealer, trying to beat his cards.
 # ScreenShot
-<img src="https://github.com/ronarnrio/BlackJack-Game/blob/main/gameimg/bjpic.png?raw=true"/>
+<img src="https://github.com/ronarnrio/Black-Jack/blob/main/gameimg/bjpic.png?raw=true"/>
 
 # Technologies Used
 Html, CSS, JavaScript, jQuery
